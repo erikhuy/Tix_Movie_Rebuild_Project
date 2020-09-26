@@ -1,0 +1,33 @@
+//Helper
+@import './Helper/mixin';
+@import './Helper/variables';
+
+//Base
+@import './Base/reset';
+@import './Base/customize';
+
+
+
+//Components
+@import './Components/button';
+@import './Components/navigation';
+@import './Components/hover';
+@import './Components/brand';
+
+
+//Layouts
+@import './Layouts/header';
+@import './Layouts/carousel';
+@import './Layouts/searchBar';
+@import './Layouts/filmList';
+@import './Layouts/showTime';
+@import './Layouts/new';
+@import './Layouts/app';
+@import './Layouts/contact';
+@import './Layouts/footer';
+
+
+
+
+
+
